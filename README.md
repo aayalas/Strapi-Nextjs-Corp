@@ -1,5 +1,5 @@
 # 🚀 Getting started with Strapi
-# Strapi Nextjs Corp Starter -- Backend Only -- for Upload to Strapi Cloud
+# Strapi Nextjs Corp Starter -- Backend Only -- for Upload to Test Strapi Cloud
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
 
